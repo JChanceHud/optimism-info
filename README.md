@@ -10,35 +10,49 @@ L1 contract addresses on the Görli network.
 
 ```
 {
-  "AddressManager": "0xf8288f17B625041b8ada6A2434ece72328225dcc",
+  "AddressManager": "0xbB8169C389B30D683D9D271Ab0101315fad6598B",
   "OVM_Sequencer": "0xD1b9519fcA1c3b06CDDCa007A2dBeE8C21175Cc4",
   "Deployer": "0x854643aE893857C1bd32c5AF7B4404FE15f3641f",
-  "OVM_L2CrossDomainMessenger": "0x52f49f1EF43e8de570042ceD4417fB33Cfb796A7",
-  "OVM_L1CrossDomainMessenger": "0xD9d884Ea6C3048d9FA6DE0A0Ca4664b298Bd7C61",
-  "Proxy__OVM_L1CrossDomainMessenger": "0x9c4D992cAEC010F1018EbF5C2f10277f44F80b53",
-  "OVM_CanonicalTransactionChain": "0xa0a821EddDFE228DCD33Dc807198468c05f13c1b",
-  "OVM_StateCommitmentChain": "0x6b7362b0b25D418bCF77aF3bEd053De5EfB8AA0c",
-  "OVM_DeployerWhitelist": "0xBE2924Fe63c48755c02b987DD7BB97c7247Aa86b",
-  "OVM_L1MessageSender": "0xe54cD5F31Fb7E26DF5BA73f23cc0A14dfc4e4224",
-  "OVM_L2ToL1MessagePasser": "0x17310f7fEc56551FD0Ccc99b91EF50FBbBf2f5A9",
-  "OVM_SafetyChecker": "0xA11940deC53ca27c980589d0314d8022912F71c4",
-  "OVM_ExecutionManager": "0xc567Dbb20946C7a7412cC2e5629557da083d0a3F",
-  "OVM_StateManager": "0xD67A5e1c3E528987349E2Cc52A0f77e546E8377D",
-  "OVM_StateManagerFactory": "0x5D7f6CABe404Ed43B6EAa116f47A17acBA854657",
-  "OVM_FraudVerifier": "0x7d8cA226FE1dAc77E58F7D6e774A5908184061F6",
-  "OVM_StateTransitionerFactory": "0xCA70706F3de8682ab92F1AD6ee2Ce559C7268093",
-  "OVM_ECDSAContractAccount": "0xc5847E0fB94a6dB45De0DC9B4E901fCA065ff956",
-  "OVM_SequencerEntrypoint": "0x54cF5f999a94ED933305ba805d3fF6B9385D6fcB",
-  "OVM_ProxySequencerEntrypoint": "0xA0Bf6584fFe7d7a1DbeB0dCd989955BdB68f7a17",
-  "mockOVM_ECDSAContractAccount": "0x0663A71Dba12ff19Af7774EBb70c1B94528242DB",
-  "OVM_BondManager": "0x53093b3c58Df7da09BF2F6A883786e0979716CB6",
-  "OVM_ETH": "0xF9dc27e33fC55F7a3713162A8a221C68bfF17639",
-  "OVM_ChainStorageContainer:CTC:batches": "0x315F4b699E088aE08A2532e31C9C7CC3b577D4B1",
-  "OVM_ChainStorageContainer:CTC:queue": "0xE5AA620ef4034F7A12cfC5813fB65C8A919DeBb4",
-  "OVM_ChainStorageContainer:SCC:batches": "0xaE34e44Fc4811674E4838F537173F1Fb9f3D7D24"
+  "OVM_L2CrossDomainMessenger": "0x29d1b09892CfF1F714EB87F33d4dD42B293852a7",
+  "OVM_L1CrossDomainMessenger": "0x8d04533830076F422655fB86953d3E996C62852c",
+  "Proxy__OVM_L1CrossDomainMessenger": "0x529b3a0493aeAEA01BFCC47040BE54e784Eee534",
+  "OVM_CanonicalTransactionChain": "0xD85Cf16A715f52fF6dFaEC03bD6110143927Da9b",
+  "OVM_StateCommitmentChain": "0xFd95caEBC170e873B9705c0a1Fe9f2e596becdDF",
+  "OVM_DeployerWhitelist": "0xa3C8f4E4ff4460FA734Dec46123b8A80AAA4f245",
+  "OVM_L1MessageSender": "0x9dc847b6e9f652e8AB812b8B39a8Df8011A3F4C1",
+  "OVM_L2ToL1MessagePasser": "0xF520398B372C9102Ac1d9c9FeeBDcB5B12fA9D6d",
+  "OVM_SafetyChecker": "0x42B6F84eE26d9308Ee9d5e06d97fd7654eE3BDa3",
+  "OVM_ExecutionManager": "0x0584a16732E161C93d88EFDA39Fa2eE727cA1963",
+  "OVM_StateManager": "0xd513441cA2780966Fc65F7E30D35fCB853241F97",
+  "OVM_StateManagerFactory": "0x90391bf0582B61692DA2c449C5C7F8dE7b60a751",
+  "OVM_FraudVerifier": "0x0A95B27551C54e4722e36acB2fb836533b4CE2f4",
+  "OVM_StateTransitionerFactory": "0xA3beE6D3b41B00dF8b2e2a4Bb1185147167dFe1d",
+  "OVM_ECDSAContractAccount": "0xfcE4Fcc6Bb69E8B64005143f7fC6d3f8515f36F6",
+  "OVM_SequencerEntrypoint": "0x0e35e4d301938F05eFde307D68399073Bf625b9b",
+  "OVM_ProxySequencerEntrypoint": "0x99838f1F86e04c32cCa285FeA7421b2E4450f7a0",
+  "mockOVM_ECDSAContractAccount": "0xF9DeDC73a8BB423c543a6fFF07111605dc0627C1",
+  "OVM_BondManager": "0xb7DeA0eBBa2867D204157CE57a5620ea4EF1c4EC",
+  "OVM_ETH": "0xbAB726190777d4dB63c0Caa0866496C6A934A022",
+  "OVM_ChainStorageContainer:CTC:batches": "0x8359eE2b6D0204BEed37edDda4bD6d04b12eA38c",
+  "OVM_ChainStorageContainer:CTC:queue": "0x458c2A1c36F5BCC6C18D57a35f0662aF8Ade4b6D",
+  "OVM_ChainStorageContainer:SCC:batches": "0xE49fDa6F87fAaB01845e264cfBB69De86d878099"
 }
+```
+
+## Run a Verifier
+
+Use [this repo](https://github.com/jchancehud/verifier) to run a verifier. The docker-compose file is pre-configured to run a verifier, fraud-prover, and batch-submitter.
+
+```sh
+git clone https://github.com/jchancehud/verifier.git
+cd verifier
+docker-compose up
 ```
 
 ## Deployment
 
-Use `npm run deploy` to deploy the Optimism L1 contracts. A preset deployment can be accessed at the above addresses.
+Use `npm run deploy:rollup` to deploy the Optimism L1 contracts. A preset deployment can be accessed at the above addresses. The `.env` file should be used to control options for the deployed contracts (sequencer, deployer, etc). A full list of options can be found [here](https://github.com/JChanceHud/contracts-v2/blob/master/bin/deploy.js#L8).
+
+## Contract Deployment in Rollup
+
+Use `npm run deploy:contract` to compile and deploy a contract to the Optimism rollup.

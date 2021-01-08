@@ -4,8 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "compile": "sh scripts/compile.sh",
+    "deploy": "node scripts/deploy_contract.js",
+    "deploy:rollup": "sh scripts/deploy.sh"
   },
   "author": "Chance Hudson",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "web3": "^1.3.1"
+  }
 }
